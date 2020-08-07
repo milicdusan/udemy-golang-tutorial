@@ -1,2 +1,3 @@
 # udemy-golang-tutorial
-Golang project for the udemy course Go: The complete developer's guide
+
+This is a collection of golang programs made while learning golang using the udemy tutorial for GoLang.
