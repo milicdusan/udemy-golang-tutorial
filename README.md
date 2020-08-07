@@ -1,3 +1,7 @@
 # udemy-golang-tutorial
 
-This is a collection of golang programs made while learning golang using the udemy tutorial for GoLang.
+This project is a collection of programs made while learning Go using the udemy tutorial about it.
+
+## 01-helloworld
+
+The folder contains a simple hello world program which the lecturer uses to explain some of the fundamental golang processes.
