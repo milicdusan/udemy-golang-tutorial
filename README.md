@@ -9,3 +9,7 @@ The folder contains a simple hello world program which the lecturer uses to expl
 ## 02-cards
 
 This is a project that simulates a deck of playing cards.
+
+## 03-structs
+
+This folder contains some demonstrations of structs.
